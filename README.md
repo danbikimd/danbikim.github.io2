@@ -1,1 +1,0 @@
-# danbikim.github.io2
