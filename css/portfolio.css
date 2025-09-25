@@ -885,7 +885,7 @@ body {
 #section4 .web-project>a {
   display: block;
   border-radius: 30px;
-  
+
 }
 
 /* 한샘몰,진저베어썸네일 */
@@ -896,7 +896,7 @@ body {
   position: relative;
   border-radius: 30px;
   /* border: var(--border, none); */
-object-fit: cover; 
+  object-fit: cover;
 
 }
 
